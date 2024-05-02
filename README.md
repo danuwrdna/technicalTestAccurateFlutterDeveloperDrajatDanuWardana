@@ -1,4 +1,4 @@
-![splash screen](https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/4fcdd148-1453-42e0-8991-7663616735b0)
+![splash screen](https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/1e2fb9ea-ceaf-4650-b78f-d5028b88b45a)
 
 # Penjelasan
  tentang aplikasi ini
