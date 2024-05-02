@@ -1,4 +1,5 @@
-![splash screen](https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/af87a2ca-590f-4ea2-a63c-55726cd6b0f5){width=50% height=100}
+<img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/af87a2ca-590f-4ea2-a63c-55726cd6b0f5" alt="splash screen" width="50%" height="100">
+
 
 
 # Penjelasan
