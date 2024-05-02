@@ -1,6 +1,7 @@
 <img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/af87a2ca-590f-4ea2-a63c-55726cd6b0f5" alt="splash screen" width="200" height="300">
 
 sangat wajib membaca poin mekanisme penggunaan aplikasi ( ada di bagian bawah )
+
 Note : Seharusnya tidak ada eror, karena sudah di test langsung dari smartphone android dengan ukuran layar kurang lebih 6,5 - 6,7 inch
 # Penjelasan
  tentang aplikasi ini
