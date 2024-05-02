@@ -1,4 +1,7 @@
-# Penjelasan tentang aplikasi ini
+![splash screen](https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/4fcdd148-1453-42e0-8991-7663616735b0)
+
+# Penjelasan
+ tentang aplikasi ini
 Ini adalah aplikasi untuk melihat, membuat. memfilter, mencari data user dari sebuah end point API, aplikasi ini di buat untuk menjadi satu syarat rekrutment di Accurate.
 Adapun beberapa arsitektur, prinsip kode dan teknologi yang di gunakan dalam aplikasi ini :
 # Arsitektur
