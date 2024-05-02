@@ -1,5 +1,6 @@
 <img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/af87a2ca-590f-4ea2-a63c-55726cd6b0f5" alt="splash screen" width="200" height="300">
 
+Note : Seharusnya tidak ada eror, karena sudah di test langsung dari smartphone android dengan ukuran layar kurang lebih 6,5 - 6,7 inch
 # Penjelasan
  tentang aplikasi ini
 Ini adalah aplikasi untuk melihat, membuat. memfilter, mencari data user dari sebuah end point API, aplikasi ini di buat untuk menjadi satu syarat rekrutment di Accurate.
