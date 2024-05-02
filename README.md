@@ -1,5 +1,6 @@
 <img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/af87a2ca-590f-4ea2-a63c-55726cd6b0f5" alt="splash screen" width="200" height="300">
 
+sangat wajib membaca poin mekanisme penggunaan aplikasi ( ada di bagian bawah )
 Note : Seharusnya tidak ada eror, karena sudah di test langsung dari smartphone android dengan ukuran layar kurang lebih 6,5 - 6,7 inch
 # Penjelasan
  tentang aplikasi ini
@@ -21,6 +22,9 @@ Adapun beberapa arsitektur, prinsip kode dan teknologi yang di gunakan dalam apl
 - Page transition
   Untuk keperluan pemindahan atau navigasi halaman secara otomatis tanpa ada tindakan dari user, dengan di berikan jeda waktu
 # Mekanisme penggunaan aplikasi
+- Untuk melihat data user
+  Tidak perlu action apapun akan tetapi data di sajikan dalam bentuk table, jadi jika ingin melihat lengkap halaman bisa di scroll ke samping, ke bawah ataupun di 
+  zoom in dan di zoom out ( Zoom out tidak bisa terlalu jauh )
 - Untuk mencari User
   <img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/6f7b1e8e-454f-48c8-a6f3-5548cc5c188d" alt="halaman utama user" width="200" height="300">
   
