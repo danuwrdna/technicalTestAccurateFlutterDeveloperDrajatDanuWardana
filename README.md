@@ -22,16 +22,20 @@ Adapun beberapa arsitektur, prinsip kode dan teknologi yang di gunakan dalam apl
 # Mekanisme penggunaan aplikasi
 - Untuk mencari User
   <img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/6f7b1e8e-454f-48c8-a6f3-5548cc5c188d" alt="halaman utama user" width="200" height="300">
+  
   Saat halaman utama klik icon search dan icon berubah menjadi text field di bawah ini
 <img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/548472cc-82a4-4cfb-9f95-78b8ccb623a9" alt="halaman search user" width="200" height="300">
+
 dan klik text fieldnya dan keyboard otomatis muncul dan pencarian sudah bisa di lakukan
 - Untuk mengurutkan nama user
   Klik saja icon A-Z yang ada di atas maka nanti akan mengurut sesuai abjad jika A maka yang di urut dari A jika Z maka yang di urut dari Z
 - Untuk memfilter user berdasarkan kota
   Klik saja icon di samping kanan A-Z, nanti akan muncul halaman pilihan kota seperti di bawah ini
  <img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/27bdca90-c728-4521-996d-e47f2d68e514" alt="halaman filter user" width="200" height="300">
+ 
  Pilih kota apa maka nanti data yang akan di tampilkan adalah user dari kota yang di pilih
 - Untuk menambah data user
   Klik icon + nanti halaman akan berubah seperti di bawah ini
 <img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/a56de12a-3ca1-4027-8638-2d2fa07a1513" alt="halaman add user" width="200" height="300">
+
 Tinggal di isi saja, form tidak boleh kosong harus di isi semua, jika memaksakan untuk submit maka akan tampil snackbar di bawah layar, jika data sucess atau gagal maka akan ada notifikasi, jika data berhasil disimpan tunggu notif menghilang selama 3 detik dan akan kembali ke layar utama setelah itu wajib sekali untuk mengklik icon refresh untuk melihat data yang baru di tambahkan.
