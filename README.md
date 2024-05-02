@@ -23,9 +23,10 @@ Adapun beberapa arsitektur, prinsip kode dan teknologi yang di gunakan dalam apl
 - Page transition
   Untuk keperluan pemindahan atau navigasi halaman secara otomatis tanpa ada tindakan dari user, dengan di berikan jeda waktu
 # Mekanisme penggunaan aplikasi
-- Untuk melihat data user
+- Untuk melihat data user ( Wajib baca poin ini hingga selesai )
   Tidak perlu action apapun akan tetapi data di sajikan dalam bentuk table, jadi jika ingin melihat lengkap halaman bisa di scroll ke samping, ke bawah ataupun di 
-  zoom in dan di zoom out ( Zoom out tidak bisa terlalu jauh )
+  zoom in dan di zoom out ( Zoom out tidak bisa terlalu jauh ), jika melihat dari gambar screen shot terlihat hanya row name dan email saja, tetapi jika di geser 
+ kesamping ada address, city dan phone number.
 - Untuk mencari User
   <img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/6f7b1e8e-454f-48c8-a6f3-5548cc5c188d" alt="halaman utama user" width="200" height="300">
   
@@ -45,3 +46,6 @@ dan klik text fieldnya dan keyboard otomatis muncul dan pencarian sudah bisa di 
 <img src="https://github.com/danuwrdna/technicalTestAccurateFlutterDeveloperDrajatDanuWardana/assets/90078732/a56de12a-3ca1-4027-8638-2d2fa07a1513" alt="halaman add user" width="200" height="300">
 
 Tinggal di isi saja, form tidak boleh kosong harus di isi semua, jika memaksakan untuk submit maka akan tampil snackbar di bawah layar, jika data sucess atau gagal maka akan ada notifikasi, jika data berhasil disimpan tunggu notif menghilang selama 3 detik dan akan kembali ke layar utama setelah itu wajib sekali untuk mengklik icon refresh untuk melihat data yang baru di tambahkan.
+
+# Alasan membuat tampilan seperti gambar di atas
+  Data API hanya ada tulisan saja tidak mempunyai gambar jadi, saya mempunyai ide untuk membungkusnya dengan widget table, warna yang di gunakan, font yang di gunakan masih standard atau bawaan flutter, karena memang di minta untuk membuat UX yang mudah di gunakan dan simple, karena tidak ada figma, maka saya pikir seperti ini sudah cukup, takut jika di tambahkan desainnya malah mengurangi kualitas UXnya.
